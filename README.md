@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>    🌱 I’m currently learning Devaps, C#, Linux<br><br>    💬 Ask me about Django, Python, DRF<br><br>    📫 How to reach me abolfazl.khezri.business@gmail.com<br><br>    ⚡ Fun fact I love developmenting because I wanna create amazing things without any limitation<br>
+<br><br>    🌱 I’m currently learning Devaps, C++ , Linux<br><br>    💬 Ask me about Django, Python, DRF<br><br>    📫 How to reach me abolfazl.khezri.business@gmail.com<br><br>    ⚡ Fun fact I love developmenting because I wanna create amazing things without any limitation<br>
 
 
 # 💻 Tech Stack:

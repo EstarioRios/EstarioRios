@@ -1,93 +1,93 @@
-<!-- Copy-and-paste this into README.md -->
+<!-- Dark-space themed GitHub profile README -->
+<body style="margin:0;padding:0;background:#000;color:#eee;font-family:'Segoe UI',sans-serif;">
 
-<body style="margin:0;padding:0;background:#000;color:#ddd;font-family:'Segoe UI',sans-serif;">
 <style>
-  /* Background stars */
-  .stars, .stars2, .stars3 {
-    position:absolute;top:0;left:0;width:100%;height:100%;display:block;
-    background-repeat:repeat;
-    animation:animStar linear infinite;
-  }
-  .stars  { background-image:url('https://raw.githubusercontent.com/estariorios/readme-assets/main/stars1.png'); animation-duration:200s; }
-  .stars2 { background-image:url('https://raw.githubusercontent.com/estariorios/readme-assets/main/stars2.png'); animation-duration:100s; }
-  .stars3 { background-image:url('https://raw.githubusercontent.com/estariorios/readme-assets/main/stars3.png'); animation-duration:300s; }
-  @keyframes animStar { from{transform:translateY(0);} to{transform:translateY(-1000px);} }
-
-  /* Falling orbs (“leaves”) */
-  .orb {
-    position:fixed; background:rgba(255,50,50,0.6);
-    border-radius:50%;
-    animation:fall linear infinite;
-  }
-  @keyframes fall {
-    0% { transform: translateY(-5vh) translateX(0) scale(0.5); opacity:1; }
-    100% { transform: translateY(105vh) translateX(30px) scale(1); opacity:0; }
+  /* Background starfield */
+  @keyframes stars { from { transform: translateY(0);} to { transform: translateY(-1000px);} }
+  .stars {
+    position: fixed; top:0; left:0; width:100%; height:100%;
+    background: url('https://raw.githubusercontent.com/estariorios/readme-assets/main/stars1.png') repeat;
+    animation: stars 200s linear infinite;
+    opacity:0.6;
+    z-index:-2;
   }
 
-  /* Glass cards */
+  /* Subtle red flicker text */
+  .flicker {
+    color: #ff5555;
+    animation: flicker 1.5s infinite alternate;
+  }
+  @keyframes flicker {
+    from { opacity:.8; text-shadow: 0 0 8px #ff4444; }
+    to   { opacity:1; text-shadow: 0 0 16px #ff2222; }
+  }
+
+  /* Glassy info cards */
   .card {
-    backdrop-filter:blur(8px);
-    background:rgba(30,0,0,0.5);
-    border:1px solid rgba(255,0,0,0.4);
+    background: rgba(30,0,0,0.5);
+    backdrop-filter: blur(8px);
+    border: 1px solid rgba(255,0,0,0.3);
     border-radius:8px;
-    padding:16px;
-    margin:16px auto;
-    max-width:700px;
-    box-shadow:0 0 12px rgba(255,0,0,0.6);
-    animation:fadeIn 2s ease 1;
+    padding:20px;
+    margin:20px auto;
+    max-width:800px;
+    box-shadow: 0 0 12px rgba(255,0,0,0.6);
+    animation: fade 1.2s ease-out;
   }
-  @keyframes fadeIn { from{opacity:0;transform:translateY(20px);} to{opacity:1;} }
+  @keyframes fade {
+    from { opacity:0; transform: translateY(20px); }
+    to   { opacity:1; transform: translateY(0); }
+  }
 
-  h1, h2 { text-align:center;color:#ff7777; }
-  a { color:#ff5555; }
+  h1, h2, h3 { color: #ff6666; text-align:center; }
+  p, li { line-height:1.6; }
+  a { color:#ff7777; }
   img { border-radius:4px; }
-
 </style>
 
-<div class="stars"></div><div class="stars2"></div><div class="stars3"></div>
-
-<script>
-  for(let i=0;i<12;i++){
-    document.write('<div class="orb" style="width:'+ (12+Math.random()*20) +
-                   'px;height:'+(12+Math.random()*20) +'px;left:'+ (Math.random()*100)+'vw;animation-duration:'+(8+Math.random()*6)+'s;"></div>');
-  }
-</script>
+<div class="stars"></div>
 
 <section>
-  <h1>👾 Abolfazl Khezri</h1>
-  <h2>DevOps • C++ • Linux • Django & DRF</h2>
+  <h1 class="flicker">👨‍🚀 Abolfazl Khezri</h1>
+  <h2>Back‑End Developer | Redis • Django • DRF • JS • Docker • Python • PostgreSQL • SQLite</h2>
 </section>
 
 <section class="card">
-  <h2>📊 GitHub Stats</h2>
+  <h3>📊 GitHub Stats</h3>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=estariorios&theme=dark&hide_border=true&show_icons=true&bg_color=000000&icon_color=ff4444" width="320"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=estariorios&theme=dark&hide_border=true&background=000000&fire=ff4444" width="320"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=estariorios&theme=dark&hide_border=true&show_icons=true&bg_color=000000&icon_color=ff4444" width="300" alt="GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=estariorios&theme=dark&hide_border=true&background=000000&fire=ff4444" width="300" alt="Streak Stats"/>
   </p>
 </section>
 
 <section class="card">
-  <h2>🌌 Recent Activity Cube (3D vibe)</h2>
-  <p align="center" style="color:#aaa;">[Imagine a slowly spinning 3D activity cube here]</p>
-</section>
-
-<section class="card">
-  <h2>💼 Featured Projects</h2>
+  <h3>💼 Featured Projects</h3>
   <p align="center">
-    <a href="#"><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" /></a>
-    <a href="#"><img src="https://media.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif" width="200" /></a>
+    <a href="#"><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Project ✨"/></a>
+    <a href="#"><img src="https://media.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif" width="200" alt="Project 🚀"/></a>
   </p>
 </section>
 
 <section class="card">
-  <h2>📬 Contact</h2>
+  <h3>🌌 Activity Showcase</h3>
+  <p align="center" style="color:#ccc;">
+    📌 Latest Commits • ⭐ PRs • 🐛 Issues • 🛠 Code Reviews • 🚚 Deploys
+  </p>
+  <p align="center"><em>Visualize your activity via GitHub Actions or external SVG here.</em></p>
+</section>
+
+<section class="card">
+  <h3>📬 Contact & Connect</h3>
   <p align="center">
-    <a href="mailto:abolfazl.khezri.business@gmail.com">📧 Email Me</a> • 
-    <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> • 
-    <a href="https://github.com/estariorios">GitHub</a>
+    📧 <a href="mailto:abolfazl.khezri.business@gmail.com">Email Me</a> ·
+    💼 LinkedIn ·
+    ⚙️ DockerHub ·
+    💻 GitHub
   </p>
 </section>
 
-<section align="center" style="margin:40px 0;color:#777;">
-  Made with ❤️ in dark space 🌌
-</section>
+<p align="center" style="margin:40px 0;color:#555;">
+  Built in 🖤 dark mode with blazing 💥 red accents • crafted by Abolfazl
+</p>
+
+</body>

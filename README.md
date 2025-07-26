@@ -1,5 +1,4 @@
 <!-- Profile Header -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=200&section=header&text=Abolfazl%20Khezri%20%7C%20EstarioRios&fontSize=40&fontColor=ffffff"/>
 
 <div align="center">
@@ -16,22 +15,16 @@
 
 ### 🔥 Stats & Contributions
 
-<!-- GitHub Metrics: Isocalendar -->
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EstarioRios/EstarioRios/master/metrics.plugin.isocalendar.fullyear.svg" width="85%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstarioRios&theme=dark&fire=DD2727&ring=DD2727&currStreakLabel=ffffff&background=00000000" />
 </p>
 
-<!-- GitHub Metrics: Languages -->
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EstarioRios/EstarioRios/master/metrics.plugin.languages.details.svg" width="85%">
+  <img src="https://github-readme-stats.vercel.app/api?username=EstarioRios&show_icons=true&hide_border=true&title_color=DD2727&icon_color=DD2727&text_color=ffffff&bg_color=00000000" />
 </p>
 
-<!-- GitHub Metrics: Topics (with icons) -->
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EstarioRios/EstarioRios/master/metrics.plugin.topics.icons.svg" width="85%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstarioRios&layout=compact&title_color=DD2727&text_color=ffffff&bg_color=00000000" />
 </p>
 
 ---
@@ -82,24 +75,23 @@ jobs:
           plugin_topics_mode: icons
           plugin_topics_sort: stars
 ```
-
 </details>
 
 ---
 
 ### 🧩 About Me
 
-I’m **Abolfazl Khezri**, a backend developer who enjoys writing clean, efficient, and scalable backend code.
+I’m **Abolfazl Khezri**, a backend developer who enjoys writing clean, efficient, and scalable backend code. 
 
-* 🔭 I’m currently working on full-stack systems with DRF and PostgreSQL
-* 🌱 Learning more about system architecture and performance optimization
-* ⚡ Fun fact: I love building command-line tools and automating Linux workflows
+- 🔭 I’m currently working on full-stack systems with DRF and PostgreSQL
+- 🌱 Learning more about system architecture and performance optimization
+- ⚡ Fun fact: I love building command-line tools and automating Linux workflows
 
 ---
 
 <div align="center">
 
-*"Think deeply. Code cleanly. Deploy wisely."*
+_"Think deeply. Code cleanly. Deploy wisely."_
 
 ⭐️ If you like what you see, consider following or contributing to my repositories!
 

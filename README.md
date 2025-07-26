@@ -17,17 +17,11 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EstarioRios&theme=dark&fire=DD2727&ring=DD2727&currStreakLabel=ffffff&background=00000000" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstarioRios&show_icons=true&hide_border=true&title_color=DD2727&icon_color=DD2727&text_color=ffffff&bg_color=00000000" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstarioRios&layout=compact&title_color=DD2727&text_color=ffffff&bg_color=00000000" />
+<img height="180em" style="background-color:#000000; border-radius:12px;" src="https://github-readme-streak-stats.herokuapp.com/?user=EstarioRios&theme=dark&fire=DD2727&ring=DD2727&currStreakLabel=ffffff&background=00000000" />
+<img height="180em" style="background-color:#000000; border-radius:12px;" src="https://github-readme-stats.vercel.app/api?username=EstarioRios&show_icons=true&hide_border=true&title_color=DD2727&icon_color=DD2727&text_color=ffffff&bg_color=00000000" />
+<img height="180em" style="background-color:#000000; border-radius:12px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstarioRios&layout=compact&title_color=DD2727&text_color=ffffff&bg_color=00000000" />
 
 </div>
-
----
-
-### 🛠️ Skills Snapshot
-
-> JWT · NodeJS · Python · Django · Django REST Framework · Docker · Linux · JavaScript · Redis · PostgreSQL · SQLite · C++
 
 ---
 
@@ -50,6 +44,12 @@ Some projects are practical, others are ambitious — but all of them reflect wh
 
 So if you're into real-world tools, system-level challenges, or just watching someone build cool things with no limits,  
 stick around. There’s always more coming.
+
+---
+
+### 🛠️ Skills Snapshot
+
+> JWT · NodeJS · Python · Django · Django REST Framework · Docker · Linux · JavaScript · Redis · PostgreSQL · SQLite · C++
 
 ---
 

@@ -3,11 +3,11 @@
 
 <div align="center">
 
-### 🧠 Backend Developer | Pythonista | Linux Enthusiast
+### 🧠 Developer | Explorer | System Thinker
 
-💻 Specialized in building secure, scalable backends
+💻 Passionate about building across layers — from backend to system-level
 
-🔒 JWT • 🐍 Python • 🦄 Django & DRF • 🐳 Docker • 🐧 Linux • ⚡ NodeJS • 🔃 Redis • 🐘 PostgreSQL • 💾 SQLite
+🔧 I craft tools, build platforms, and sometimes chase big ideas
 
 </div>
 
@@ -29,63 +29,31 @@
 
 ---
 
+### 🌌 What to Expect from This GitHub
+
+Hey! I'm **Abolfazl Khezri** — aka **EstarioRios** — a developer who enjoys pushing the limits of what’s possible with code.
+
+This GitHub is a place where you’ll find a bit of everything I build, explore, and eventually publish — from small utilities to full-blown systems.
+
+What you might come across here:
+
+- Tools that automate, optimize, or just make life easier  
+- Experiments that may evolve into frameworks or platforms  
+- Cross-platform software — sometimes for Linux, sometimes for Windows  
+- Low-level stuff — I might dive into OS concepts, or even kernel development  
+- And maybe someday… a game engine written from scratch
+
+I don’t just stick to one domain. I explore.  
+Some projects are practical, others are ambitious — but all of them reflect what I enjoy creating.
+
+So if you're into real-world tools, system-level challenges, or just watching someone build cool things with no limits,  
+stick around. There’s always more coming.
+
+---
+
 ### 🛠️ Skills Snapshot
 
-> JWT · NodeJS · Python · Django · Django REST Framework · Docker · Linux · JavaScript · Redis · PostgreSQL · SQLite
-
----
-
-### 📈 GitHub Metrics Setup (for you to keep using):
-
-<details>
-<summary>Click to expand workflow setup</summary>
-
-```yml
-name: Metrics
-on:
-  schedule: [{ cron: "0 0 * * 0" }]
-  workflow_dispatch:
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.languages.details.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_details: bytes-size, percentage
-
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.topics.icons.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_topics: yes
-          plugin_topics_mode: icons
-          plugin_topics_sort: stars
-```
-</details>
-
----
-
-### 🧩 About Me
-
-I’m **Abolfazl Khezri**, a backend developer who enjoys writing clean, efficient, and scalable backend code. 
-
-- 🔭 I’m currently working on full-stack systems with DRF and PostgreSQL
-- 🌱 Learning more about system architecture and performance optimization
-- ⚡ Fun fact: I love building command-line tools and automating Linux workflows
+> JWT · NodeJS · Python · Django · Django REST Framework · Docker · Linux · JavaScript · Redis · PostgreSQL · SQLite · C++
 
 ---
 

@@ -7,7 +7,7 @@
 
 💻 Specialized in building secure, scalable backends
 
-🔒 JWT • 🐍 Python • 🦄 Django & DRF • 🐳 Docker • 🐧 Linux • ⚡ NodeJS • 🔃 Redis • 🐘 PostgreSQL • 💾 SQLite • 💥 C++
+🔒 JWT • 🐍 Python • 🦄 Django & DRF • 🐳 Docker • 🐧 Linux • ⚡ NodeJS • 🔃 Redis • 🐘 PostgreSQL • 💾 SQLite • ⚙️ C++
 
 </div>
 

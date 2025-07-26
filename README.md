@@ -1,80 +1,93 @@
-<h1 align="center" style="color:#00ff99;font-weight:bold;font-family:monospace;font-size:2.7rem;text-shadow:0 0 10px #00ff99;">Hi 👋 I'm Abolfazl Khezri</h1>
-<h3 align="center" style="color:#00ffaa;font-family:monospace;text-shadow:0 0 5px #00ffaa;">A Passionate Backend Developer & Builder of Complex Systems</h3>
+<!-- Profile Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=200&section=header&text=Abolfazl%20Khezri%20%7C%20EstarioRios&fontSize=40&fontColor=ffffff"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EstarioRios&theme=matrix&row=1&column=7" />
-</p>
+<div align="center">
+
+### 🧠 Backend Developer | Pythonista | Linux Enthusiast
+
+💻 Specialized in building secure, scalable backends
+
+🔒 JWT • 🐍 Python • 🦄 Django & DRF • 🐳 Docker • 🐧 Linux • ⚡ NodeJS • 🔃 Redis • 🐘 PostgreSQL • 💾 SQLite
+
+</div>
 
 ---
 
-### 🌱 About Me
-```diff
-+ 🚀 Exploring NodeJS, TypeScript, C++
-+ 🔗 Expert in Django, DRF, PostgreSQL, Redis, Linux, JWT Auth, API systems
-+ ⚖️ Advocate of clean architecture and performance-focused coding
-+ 🧪 Currently building HyperTB and Owj Academy backend systems
-+ 🧬 I love futuristic design, cosmic science, symbolic meaning, and mind-bending films
+### 🔥 Stats & Contributions
+
+<!-- GitHub Metrics: Isocalendar -->
+<img src="https://raw.githubusercontent.com/EstarioRios/EstarioRios/master/metrics.plugin.isocalendar.fullyear.svg" width="100%">
+
+<!-- GitHub Metrics: Languages -->
+<img src="https://raw.githubusercontent.com/EstarioRios/EstarioRios/master/metrics.plugin.languages.details.svg" width="100%">
+
+<!-- GitHub Metrics: Topics (with icons) -->
+<img src="https://raw.githubusercontent.com/EstarioRios/EstarioRios/master/metrics.plugin.topics.icons.svg" width="100%">
+
+---
+
+### 🛠️ Skills Snapshot
+
+```
+JWT · NodeJS · Python · Django · Django REST Framework · Docker · Linux · JavaScript · Redis · PostgreSQL · SQLite
 ```
 
 ---
 
-### 💬 Ask Me About:
-```yaml
-- Django / DRF / Python backend
-- JWT / Auth systems / Advanced APIs
-- PostgreSQL, SQLite, Redis
-- Linux server setups, Apache2, Systemctl, Vim
-- Frontend: Bootstrap + Vanilla JS (Optional)
-- Advanced deployment and VPS optimization
+### 📈 GitHub Metrics Setup (for you to keep using):
+
+```yml
+name: Metrics
+on:
+  schedule: [{ cron: "0 0 * * 0" }]
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.languages.details.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: bytes-size, percentage
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.icons.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_sort: stars
 ```
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.youtube.com/c/abolfazl_khezri" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://github.com/EstarioRios" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-00ff99?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-</p>
+### 🧩 About Me
+
+I’m **Abolfazl Khezri**, a backend developer who enjoys writing clean, efficient, and scalable backend code. 
+
+- 🔭 I’m currently working on full-stack systems with DRF and PostgreSQL
+- 🌱 Learning more about system architecture and performance optimization
+- ⚡ Fun fact: I love building command-line tools and automating Linux workflows
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="40" title="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" width="40" title="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="40" title="Redis"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" width="40" title="Vim"/>
-</p>
+<div align="center">
 
----
+_"Think deeply. Code cleanly. Deploy wisely."_
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EstarioRios&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstarioRios&theme=tokyonight&hide_border=true&background=00000000"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstarioRios&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-</p>
+⭐️ If you like what you see, consider following or contributing to my repositories!
 
----
-
-### 🌌 Final Notes
-> "Code is poetry. Simplicity is the ultimate sophistication."
-
-> I dream of building tools that make developers unstoppable.
-
-> 🤩 Stay tuned, more cosmic-level tools are coming soon...
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=00ffaa&height=80&section=footer"/>
-</p>
+</div>

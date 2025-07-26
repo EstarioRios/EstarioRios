@@ -7,7 +7,7 @@
 
 💻 Specialized in building secure, scalable backends
 
-🔒 JWT • 🐍 Python • 🦄 Django & DRF • 🐳 Docker • 🐧 Linux • ⚡ NodeJS • 🔃 Redis • 🐘 PostgreSQL • 💾 SQLite
+🔒 JWT • 🐍 Python • 🦄 Django & DRF • 🐳 Docker • 🐧 Linux • ⚡ NodeJS • 🔃 Redis • 🐘 PostgreSQL • 💾 SQLite • 💠 C++
 
 </div>
 
@@ -15,10 +15,10 @@
 
 ### 🔥 Stats & Contributions
 
-<div align="center" style="background-color:#121212; padding: 20px; border-radius: 15px; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstarioRios&theme=dark&fire=DD2727&ring=DD2727&currStreakLabel=ffffff&background=121212&stroke=ffffff" style="max-width: 250px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=EstarioRios&show_icons=true&hide_border=true&title_color=DD2727&icon_color=DD2727&text_color=ffffff&bg_color=121212" style="max-width: 250px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstarioRios&layout=compact&title_color=DD2727&text_color=ffffff&bg_color=121212" style="max-width: 250px;" />
+<div align="center" style="background-color:#121212; padding: 20px; border-radius: 15px; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; max-width: 800px; margin: auto;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstarioRios&theme=dark&fire=DD2727&ring=DD2727&currStreakLabel=ffffff&background=121212&stroke=ffffff" style="max-width: 250px; width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EstarioRios&show_icons=true&hide_border=true&title_color=DD2727&icon_color=DD2727&text_color=ffffff&bg_color=121212" style="max-width: 250px; width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstarioRios&layout=compact&title_color=DD2727&text_color=ffffff&bg_color=121212" style="max-width: 250px; width: 100%;" />
 </div>
 
 ---

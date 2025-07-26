@@ -1,4 +1,5 @@
 <!-- Profile Header -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=200&section=header&text=Abolfazl%20Khezri%20%7C%20EstarioRios&fontSize=40&fontColor=ffffff"/>
 
 <div align="center">
@@ -16,25 +17,35 @@
 ### 🔥 Stats & Contributions
 
 <!-- GitHub Metrics: Isocalendar -->
-<img src="https://raw.githubusercontent.com/EstarioRios/EstarioRios/master/metrics.plugin.isocalendar.fullyear.svg" width="100%">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EstarioRios/EstarioRios/master/metrics.plugin.isocalendar.fullyear.svg" width="85%">
+</p>
 
 <!-- GitHub Metrics: Languages -->
-<img src="https://raw.githubusercontent.com/EstarioRios/EstarioRios/master/metrics.plugin.languages.details.svg" width="100%">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EstarioRios/EstarioRios/master/metrics.plugin.languages.details.svg" width="85%">
+</p>
 
 <!-- GitHub Metrics: Topics (with icons) -->
-<img src="https://raw.githubusercontent.com/EstarioRios/EstarioRios/master/metrics.plugin.topics.icons.svg" width="100%">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EstarioRios/EstarioRios/master/metrics.plugin.topics.icons.svg" width="85%">
+</p>
 
 ---
 
 ### 🛠️ Skills Snapshot
 
-```
-JWT · NodeJS · Python · Django · Django REST Framework · Docker · Linux · JavaScript · Redis · PostgreSQL · SQLite
-```
+> JWT · NodeJS · Python · Django · Django REST Framework · Docker · Linux · JavaScript · Redis · PostgreSQL · SQLite
 
 ---
 
 ### 📈 GitHub Metrics Setup (for you to keep using):
+
+<details>
+<summary>Click to expand workflow setup</summary>
 
 ```yml
 name: Metrics
@@ -72,21 +83,23 @@ jobs:
           plugin_topics_sort: stars
 ```
 
+</details>
+
 ---
 
 ### 🧩 About Me
 
-I’m **Abolfazl Khezri**, a backend developer who enjoys writing clean, efficient, and scalable backend code. 
+I’m **Abolfazl Khezri**, a backend developer who enjoys writing clean, efficient, and scalable backend code.
 
-- 🔭 I’m currently working on full-stack systems with DRF and PostgreSQL
-- 🌱 Learning more about system architecture and performance optimization
-- ⚡ Fun fact: I love building command-line tools and automating Linux workflows
+* 🔭 I’m currently working on full-stack systems with DRF and PostgreSQL
+* 🌱 Learning more about system architecture and performance optimization
+* ⚡ Fun fact: I love building command-line tools and automating Linux workflows
 
 ---
 
 <div align="center">
 
-_"Think deeply. Code cleanly. Deploy wisely."_
+*"Think deeply. Code cleanly. Deploy wisely."*
 
 ⭐️ If you like what you see, consider following or contributing to my repositories!
 

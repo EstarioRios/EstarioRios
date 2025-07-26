@@ -7,7 +7,7 @@
 
 💻 Specialized in building secure, scalable backends
 
-🔒 JWT • 🐍 Python • 🦄 Django & DRF • 🐳 Docker • 🐧 Linux • ⚡ NodeJS • 🔃 Redis • 🐘 PostgreSQL • 💾 SQLite • 💠 C++
+🔒 JWT • 🐍 Python • 🦄 Django & DRF • 🐳 Docker • 🐧 Linux • ⚡ NodeJS • 🔃 Redis • 🐘 PostgreSQL • 💾 SQLite • 💥 C++
 
 </div>
 
@@ -15,17 +15,19 @@
 
 ### 🔥 Stats & Contributions
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstarioRios&theme=dark&fire=DD2727&ring=DD2727&currStreakLabel=ffffff&background=000000" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EstarioRios&show_icons=true&hide_border=true&title_color=DD2727&icon_color=DD2727&text_color=ffffff&bg_color=000000" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstarioRios&layout=compact&title_color=DD2727&text_color=ffffff&bg_color=000000" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstarioRios&theme=dark&fire=DD2727&ring=DD2727&currStreakLabel=ffffff&background=00000000" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=EstarioRios&show_icons=true&hide_border=true&title_color=DD2727&icon_color=DD2727&text_color=ffffff&bg_color=00000000" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstarioRios&layout=compact&title_color=DD2727&text_color=ffffff&bg_color=00000000" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -35,42 +37,32 @@
 
 ---
 
-### 📈 GitHub Metrics Setup (for you to keep using):
+### 🌌 What to Expect from This GitHub
 
-<details>
-<summary>Click to expand workflow setup</summary>
+Hey! I'm **Abolfazl Khezri** — aka **EstarioRios** — a developer who enjoys pushing the limits of what’s possible with code.
 
-```yml
-name: Metrics
-on:
-  schedule: [{ cron: "0 0 * * 0" }]
-  workflow_dispatch:
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+This GitHub is a place where you’ll find a bit of everything I build, explore, and eventually publish — from small utilities to full-blown systems.
 
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.languages.details.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_details: bytes-size, percentage
+What you might come across here:
 
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.topics.icons.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_topics: yes
-          plugin_topics_mode: icons
-          plugin_topics_sort: stars
+- Tools that automate, optimize, or just make life easier  
+- Experiments that may evolve into frameworks or platforms  
+- Cross-platform software — sometimes for Linux, sometimes for Windows  
+- Low-level stuff — I might dive into OS concepts, or even kernel development  
+- And maybe someday… a game engine written from scratch
+
+I don’t just stick to one domain. I explore.  
+Some projects are practical, others are ambitious — but all of them reflect what I enjoy creating.
+
+So if you're into real-world tools, system-level challenges, or just watching someone build cool things with no limits,  
+stick around. There’s always more coming.
+
+---
+
+<div align="center">
+
+_"Think deeply. Code cleanly. Deploy wisely."_
+
+⭐️ If you like what you see, consider following or contributing to my repositories!
+
+</div>

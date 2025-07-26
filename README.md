@@ -15,11 +15,25 @@
 
 ### 🔥 Stats & Contributions
 
-<div align="center">
+<div align="center" style="display:flex; gap:20px; justify-content:center; flex-wrap: wrap;">
 
-<img height="180em" style="background-color:#000000; border-radius:12px;" src="https://github-readme-streak-stats.herokuapp.com/?user=EstarioRios&theme=dark&fire=DD2727&ring=DD2727&currStreakLabel=ffffff&background=00000000" />
-<img height="180em" style="background-color:#000000; border-radius:12px;" src="https://github-readme-stats.vercel.app/api?username=EstarioRios&show_icons=true&hide_border=true&title_color=DD2727&icon_color=DD2727&text_color=ffffff&bg_color=00000000" />
-<img height="180em" style="background-color:#000000; border-radius:12px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstarioRios&layout=compact&title_color=DD2727&text_color=ffffff&bg_color=00000000" />
+  <img
+    height="180em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=EstarioRios&theme=dark&fire=DD2727&ring=DD2727&currStreakLabel=ffffff&background=000000"
+    style="background-color:#000000; border-radius:15px; padding:10px;"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=EstarioRios&show_icons=true&hide_border=true&title_color=DD2727&icon_color=DD2727&text_color=ffffff&bg_color=000000"
+    style="background-color:#000000; border-radius:15px; padding:10px;"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstarioRios&layout=compact&title_color=DD2727&text_color=ffffff&bg_color=000000"
+    style="background-color:#000000; border-radius:15px; padding:10px;"
+  />
 
 </div>
 

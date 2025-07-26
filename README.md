@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=200&section=header&text=Abolfazl%20Khezri%20%7C%20EstarioRios&fontSize=40&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=200&section=header&text=Abolfazl%20Khezri%20%7C%20EstarioRios&fontSize=40&fontColor=ffffff"/>
 
 <div align="center">
 
@@ -16,15 +16,15 @@
 ### 🔥 Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstarioRios&theme=dark&fire=00AA00&ring=00AA00&currStreakLabel=ffffff&background=00000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstarioRios&theme=dark&fire=DD2727&ring=DD2727&currStreakLabel=ffffff&background=00000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EstarioRios&show_icons=true&hide_border=true&title_color=00AA00&icon_color=00AA00&text_color=333333&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EstarioRios&show_icons=true&hide_border=true&title_color=DD2727&icon_color=DD2727&text_color=333333&bg_color=00000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstarioRios&layout=compact&title_color=00AA00&text_color=333333&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstarioRios&layout=compact&title_color=DD2727&text_color=333333&bg_color=00000000" />
 </p>
 
 ---

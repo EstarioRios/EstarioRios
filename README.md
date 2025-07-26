@@ -7,7 +7,7 @@
 
 💻 Specialized in building secure, scalable backends
 
-🔒 JWT • 🐍 Python • 🦄 Django & DRF • 🐳 Docker • 🐧 Linux • ⚡ NodeJS • 🔃 Redis • 🐘 PostgreSQL • 💾 SQLite
+🔒 JWT • 🐍 Python • 🦄 Django & DRF • 🐳 Docker • 🐧 Linux • ⚡ NodeJS • 🔃 Redis • 🐘 PostgreSQL • 💾 SQLite • 💠 C++
 
 </div>
 
@@ -16,22 +16,22 @@
 ### 🔥 Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstarioRios&theme=dark&fire=DD2727&ring=DD2727&currStreakLabel=ffffff&background=00000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EstarioRios&theme=dark&fire=DD2727&ring=DD2727&currStreakLabel=ffffff&background=000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EstarioRios&show_icons=true&hide_border=true&title_color=DD2727&icon_color=DD2727&text_color=ffffff&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EstarioRios&show_icons=true&hide_border=true&title_color=DD2727&icon_color=DD2727&text_color=ffffff&bg_color=000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstarioRios&layout=compact&title_color=DD2727&text_color=ffffff&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstarioRios&layout=compact&title_color=DD2727&text_color=ffffff&bg_color=000000" />
 </p>
 
 ---
 
 ### 🛠️ Skills Snapshot
 
-> JWT · NodeJS · Python · Django · Django REST Framework · Docker · Linux · JavaScript · Redis · PostgreSQL · SQLite
+> JWT · NodeJS · Python · Django · Django REST Framework · Docker · Linux · JavaScript · Redis · PostgreSQL · SQLite · C++
 
 ---
 
@@ -40,7 +40,7 @@
 <details>
 <summary>Click to expand workflow setup</summary>
 
-yml
+```yml
 name: Metrics
 on:
   schedule: [{ cron: "0 0 * * 0" }]
@@ -74,25 +74,3 @@ jobs:
           plugin_topics: yes
           plugin_topics_mode: icons
           plugin_topics_sort: stars
-
-</details>
-
----
-
-### 🧩 About Me
-
-I’m **Abolfazl Khezri**, a backend developer who enjoys writing clean, efficient, and scalable backend code. 
-
-- 🔭 I’m currently working on full-stack systems with DRF and PostgreSQL
-- 🌱 Learning more about system architecture and performance optimization
-- ⚡ Fun fact: I love building command-line tools and automating Linux workflows
-
----
-
-<div align="center">
-
-_"Think deeply. Code cleanly. Deploy wisely."_
-
-⭐️ If you like what you see, consider following or contributing to my repositories!
-
-</div>

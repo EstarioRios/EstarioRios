@@ -59,6 +59,8 @@ Some projects are practical, others are ambitious — but all of them reflect wh
 So if you're into real-world tools, system-level challenges, or just watching someone build cool things with no limits,  
 stick around. There’s always more coming.
 
+ohh 😮, I'm ready to work with you 😉
+
 ---
 
 ### 🛠️ Skills Snapshot

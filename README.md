@@ -7,29 +7,50 @@
 
 💻 Specialized in building secure, scalable backends
 
-![JWT](https://img.shields.io/badge/JWT-black?logo=jwt&logoColor=white) •
-![Python](https://img.shields.io/badge/Python-green?logo=python&logoColor=white) •
-![Django](https://img.shields.io/badge/Django-%23092E20?logo=django&logoColor=white) •
-![DRF](https://img.shields.io/badge/DRF-%23092E20?logo=django&logoColor=white) •
-![Docker](https://img.shields.io/badge/Docker-%230db7ed?logo=docker&logoColor=white) •
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white) •
-![JavaScript](https://img.shields.io/badge/JS-yellow?logo=javascript&logoColor=black) •
-![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white) •
-![WordPress](https://img.shields.io/badge/WordPress-%23192F6A?logo=wordpress&logoColor=white) •
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white) •
-![CSS](https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white) •
-![Debian](https://img.shields.io/badge/Debian-%23A81D33?logo=debian&logoColor=white) •
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?logo=ubuntu&logoColor=white) •
-![FastAPI](https://img.shields.io/badge/FastAPI-%2300BCD4?logo=fastapi&logoColor=white) •
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white) •
-![REST API](https://img.shields.io/badge/REST-Blue?logo=rest&logoColor=white) •
-![SEO](https://img.shields.io/badge/SEO-Orange?logo=google&logoColor=white) •
-![Google Analytics](https://img.shields.io/badge/GA-%23E37400?logo=googleanalytics&logoColor=white) •
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=white) •
-![Redis](https://img.shields.io/badge/Redis-%23DC382D?logo=redis&logoColor=white) •
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?logo=postgresql&logoColor=white) •
-![SQLite](https://img.shields.io/badge/SQLite-%230074AD?logo=sqlite&logoColor=white) •
-![C#](https://img.shields.io/badge/C%23-%23239120?logo=c-sharp&logoColor=white)
+### 💻 My Technical Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) • 
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) • 
+![DRF](https://img.shields.io/badge/DRF-092E20?logo=django&logoColor=white) • 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) • 
+![Pyrogram](https://img.shields.io/badge/Pyrogram-008080?logo=python&logoColor=white) • 
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white) • 
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dot-net&logoColor=white) • 
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dot-net&logoColor=white) • 
+
+### 🖥️JS
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) • 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) • 
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) • 
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) • 
+
+### 🗄️ Database & Storage
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) • 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) • 
+![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white) • 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) • 
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) • 
+
+### 🐳 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) • 
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) • 
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) • 
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white) • 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white) • 
+
+### 🔐 Security & APIs
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jwt&logoColor=white) • 
+![REST API](https://img.shields.io/badge/REST-Blue?logo=rest&logoColor=white) • 
+
+### 🌐 Web & CMS
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) • 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) • 
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white) • 
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) • 
+
+### 📊 Analytics & SEO
+![SEO](https://img.shields.io/badge/SEO-FFA500?logo=google&logoColor=white) • 
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-F16529?logo=googleanalytics&logoColor=white)
 
 </div>
 

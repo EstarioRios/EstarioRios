@@ -7,7 +7,29 @@
 
 💻 Specialized in building secure, scalable backends
 
-🔒 JWT • 🐍 Python • 🦄 Django & DRF • 🐳 Docker • 🐧 Linux • ⚡ NodeJS • 🔃 Redis • 🐘 PostgreSQL • 💾 SQLite • ⚙️ C#
+![JWT](https://img.shields.io/badge/JWT-black?logo=jwt&logoColor=white) •
+![Python](https://img.shields.io/badge/Python-green?logo=python&logoColor=white) •
+![Django](https://img.shields.io/badge/Django-%23092E20?logo=django&logoColor=white) •
+![DRF](https://img.shields.io/badge/DRF-%23092E20?logo=django&logoColor=white) •
+![Docker](https://img.shields.io/badge/Docker-%230db7ed?logo=docker&logoColor=white) •
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white) •
+![JavaScript](https://img.shields.io/badge/JS-yellow?logo=javascript&logoColor=black) •
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=white) •
+![WordPress](https://img.shields.io/badge/WordPress-%23192F6A?logo=wordpress&logoColor=white) •
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white) •
+![CSS](https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white) •
+![Debian](https://img.shields.io/badge/Debian-%23A81D33?logo=debian&logoColor=white) •
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?logo=ubuntu&logoColor=white) •
+![FastAPI](https://img.shields.io/badge/FastAPI-%2300BCD4?logo=fastapi&logoColor=white) •
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white) •
+![REST API](https://img.shields.io/badge/REST-Blue?logo=rest&logoColor=white) •
+![SEO](https://img.shields.io/badge/SEO-Orange?logo=google&logoColor=white) •
+![Google Analytics](https://img.shields.io/badge/GA-%23E37400?logo=googleanalytics&logoColor=white) •
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=white) •
+![Redis](https://img.shields.io/badge/Redis-%23DC382D?logo=redis&logoColor=white) •
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?logo=postgresql&logoColor=white) •
+![SQLite](https://img.shields.io/badge/SQLite-%230074AD?logo=sqlite&logoColor=white) •
+![C#](https://img.shields.io/badge/C%23-%23239120?logo=c-sharp&logoColor=white)
 
 </div>
 

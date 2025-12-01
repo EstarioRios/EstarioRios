@@ -106,11 +106,6 @@ ohh 😮, I'm ready to work with you 😉
 
 ---
 
-### 🛠️ Skills Snapshot
-
-> JWT · NodeJS · Python · Django · Django REST Framework · Docker · Linux · JavaScript · Redis · PostgreSQL · SQLite · C#
-
----
 
 <div align="center">
 
